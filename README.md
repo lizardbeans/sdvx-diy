@@ -39,24 +39,30 @@ You can find links here: http://sdvx-diy.pancakeapps.com
 * 9 molex 2.54 4pin wires with male and female connectors
 * 5 molex 2.54 6 pin wires.
 * 1 perfboard
+* 6 M3 bolts (for the encoders)
+* 20 M5 bolts for the body
+* 4 M6 bolts for the main plate
+* 4 magnetic lock
 
 Skills needed:
 * Wood cutting
 * Soldering
+* Drilling
+* Sanding
 
 ## Part List / Building Materials
 
 **Main box**
-Made out of 9mm MDF planks. Dimensions included in a CAD file (pending).
+Made out of 5mm MDF planks. You have to make the box 3mm narrower on each side to mount the 3mm black acrylic.
 
 **Side plates**
 Made out of black 3mm acrylic. See CAD file.
 
 **Top plate**
-Made out of laser cut clear 3mm acrylic. See CAD file.
+Made out of laser cut clear 5mm acrylic. See CAD file.
 
 **Other**
-4 pcs. 3/16x1" bolts and nuts.
+20xM5 bolts, 4xM6 bolts, 4xmagnetic lock
 
 <hr>
 
@@ -133,7 +139,7 @@ Made out of laser cut clear 3mm acrylic. See CAD file.
 </tr>
 </tbody></table>
 
-**Also you have to connect the encoders to the VUSB pin for the 5v input**
+**Also you have to connect the encoders to the VUSB pin to get the 5v input**
 
 ## Assembly / Building the controller
 
@@ -145,8 +151,8 @@ Don't forget to add your printed vynil bellow the clear acrylic before inserting
 **Encoders**
 Mount the encoders using 3 small screws.
 
-**Crim Connectors**
-Solder crimp connectors in each wire of the 7 molex wires your gonna use. You should en up with 7 wires, each with 4 crimp connectors (1 LED, 1 DATA and 2 GROUND), and also 2 other wires for the encoders (1 DATA A, 1 DATA B, 1 5v input and 1 GROUND). 
+**Crimp Connectors**
+Use crimp connectors in each wire of the 7 molex wires your gonna use. You should en up with 7 wires, each with 4 crimp connectors (1 LED, 1 DATA and 2 GROUND), and also 2 other wires for the encoders (1 DATA A, 1 DATA B, 1 5v input and 1 GROUND). 
 
 **Perfboard**
 Following this drawing (drawing pending) solder each male molex connector in the perfboard. Then using PCB wires solder each molex pin with another molex pin (For the DATA and LED pins) and solder all the grounds in a single line.
