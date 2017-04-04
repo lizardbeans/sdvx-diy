@@ -168,4 +168,4 @@ Mount everything toghether connecting each molex wire to the perfboard and to th
 
 ## Gallery
 
-[Pictures not included yet](http://imgur.com/)
+[Step by step gallery](http://imgur.com/a/uVgB2)
