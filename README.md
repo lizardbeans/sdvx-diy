@@ -27,22 +27,25 @@ Then you're done!
 
 ## Part List / Hardware
 
-Things usde to make this controller.
+Things used to make this controller.
 You can find links here: http://sdvx-diy.pancakeapps.com
 
 * Teensy 3.2 PCB
-* 2 High quality encoder (600ppr)
-* 4 60x60 SANWA buttons
-* 2 50x25 SANWA buttons
+* 2 Chinese Rotary encoders (600ppr)
+* 4 60x60 SANWA buttons (white)
+* 2 50x25 SANWA buttons (blue)
+* 1 30x30 SANWA buton (blue)
+* 2 Aluminum knobs 30x25mm
 * 7 Microswitch (included with the buttons)
-* Crimp connectors
-* 9 molex 2.54 4pin wires with male and female connectors
+* 36 Crimp connectors
+* 9 molex 2.54 4 pin wires with male and female connectors
 * 5 molex 2.54 6 pin wires.
-* 1 perfboard
+* 1 perfboard (60x40mm)
 * 6 M3 bolts (for the encoders)
 * 20 M5 bolts for the body
 * 4 M6 bolts for the main plate
-* 4 magnetic lock
+* 4 magnetic locks
+* 1 super glue
 
 Skills needed:
 * Wood cutting
@@ -62,7 +65,7 @@ Made out of black 3mm acrylic. See CAD file.
 Made out of laser cut clear 5mm acrylic. See CAD file.
 
 **Other**
-20xM5 bolts, 4xM6 bolts, 4xmagnetic lock
+20xM5 bolts, 4xM6 bolts, 4xmagnetic locks
 
 <hr>
 
