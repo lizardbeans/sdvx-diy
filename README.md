@@ -23,6 +23,8 @@ https://www.pjrc.com/teensy/td_download.html
 
 Then you're done!
 
+For the Leonardo CODE you'll need only Arduino IDE. Set the Arduino for a Leonardo and choose the right COM port.
+
 <hr>
 
 ## Part List / Hardware
@@ -69,7 +71,7 @@ Made out of laser cut clear 5mm acrylic. See CAD file.
 
 <hr>
 
-**PIN DIAGRAM**
+**PIN DIAGRAM (teensy only)**
 <table><thead>
 <tr>
 <th>Button</th>
