@@ -17,7 +17,7 @@ https://www.arduino.cc/en/Main/OldSoftwareReleases#previous
 * Download and install Teensyduino
 https://www.pjrc.com/teensy/td_download.html
 
-* Add these lines to the C:\Program Files (x86)\Arduino\hardware\teensy\avr boards.txt file and save. Alternatively download the Arduino folder and paste inside Program files.
+* Add these lines to the C:\Program Files (x86)\Arduino\hardware\teensy\avr boards.txt file and save. 
 
 teensy31.menu.usb.sdvx=SDVX controller
 
@@ -25,8 +25,13 @@ teensy31.menu.usb.sdvx.build.usbtype=USB_ARCADE
 
 teensy31.menu.usb.sdvx.fake_serial=teensy_gateway
 
+* Then add the 4 usb_arcade and usb_desc inside yout core/teensy3 folder and overwirte existing files.
+
+*Alternatively download the whole set of folders and paste into Program Files.
+
 * Open teensyduino and connect your PCB to the PC using a USB cable
 * In Tools/USB Type choose SDVX Controller
+* Open a blank Arduino IDE file (FIle - New) and click Verify to open the Teensyduino UI
 * Hit the "Open HEX file" button and choose the file
 * Click the hardware reset button on the Teensy PCB and it will upload.
 
