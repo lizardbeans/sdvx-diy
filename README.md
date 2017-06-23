@@ -160,6 +160,86 @@ Made out of laser cut clear 5mm acrylic. See CAD file.
 
 **Also you have to connect the encoders to the VUSB pin to get the 5v input**
 
+<hr>
+
+**PIN LAYOUT (LEONARDO ARDUINO)**
+
+<table><thead>
+<tr>
+<th>Button</th>
+<th style="text-align: center">Pin #</th>
+<th style="text-align: center">Button #</th>
+<th style="text-align: center">LED Pin #</th>
+</tr>
+</thead><tbody>
+<tr>
+<td>Start</td>
+<td style="text-align: center">13</td>
+<td style="text-align: center">Button 1</td>
+<td style="text-align: center">12</td>
+</tr>
+<tr>
+<td>BT-A</td>
+<td style="text-align: center">A5</td>
+<td style="text-align: center">Button 2</td>
+<td style="text-align: center">6</td>
+</tr>
+<tr>
+<td>FX-L</td>
+<td style="text-align: center">A4</td>
+<td style="text-align: center">Button 3</td>
+<td style="text-align: center">7</td>
+</tr>
+<tr>
+<td>BT-B</td>
+<td style="text-align: center">A3</td>
+<td style="text-align: center">Button 4</td>
+<td style="text-align: center">8</td>
+</tr>
+<tr>
+<td>BT-C</td>
+<td style="text-align: center">A2</td>
+<td style="text-align: center">Button 5</td>
+<td style="text-align: center">9</td>
+</tr>
+<tr>
+<td>FX-R</td>
+<td style="text-align: center">A1</td>
+<td style="text-align: center">Button 6</td>
+<td style="text-align: center">10</td>
+</tr>
+<tr>
+<td>BT-D</td>
+<td style="text-align: center">A0</td>
+<td style="text-align: center">Button 7</td>
+<td style="text-align: center">11</td>
+</tr>
+</tbody></table>
+
+
+<table><thead>
+<tr>
+<th>ENCODERS</th>
+<th style="text-align: center">DATA 1</th>
+<th style="text-align: center">DATA 2</th>
+</tr>
+</thead><tbody>
+<tr>
+<td>Left knob (VOL-L)
+<td style="text-align: center">0</td>
+<td style="text-align: center">1</td>
+</tr>
+<tr>
+<td>Right knob (VOL-R)
+<td style="text-align: center">2</td>
+<td style="text-align: center">3</td>
+</tr>
+</tbody></table>
+
+>**Also you have to connect the encoders to the 5V pin for the 5v input**
+
+<hr>
+
 ## Assembly / Building the controller
 
 **Buttons**
