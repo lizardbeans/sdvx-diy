@@ -1,4 +1,4 @@
-# Hybrid SDVX Controller (DIY)
+# SDVX Controller (DIY)
  
  
 <div style='float: center'>
