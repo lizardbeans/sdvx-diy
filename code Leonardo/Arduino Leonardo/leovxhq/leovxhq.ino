@@ -22,7 +22,7 @@ iivxReport_t report;
 
 int tmp;
 uint8_t buttonCount = 7;
-uint8_t lightMode = 1;
+uint8_t lightMode = 0;
 // 0 = reactive lighting, 1 = HID lighting
 uint8_t ledPins[] = {6,7,8,9,10,11,12};
 uint8_t buttonPins[] = {13,18,19,20,21,22,23};
