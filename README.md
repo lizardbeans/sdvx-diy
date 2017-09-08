@@ -176,43 +176,43 @@ Made out of laser cut clear 5mm acrylic. See CAD file.
 <td>Start</td>
 <td style="text-align: center">13</td>
 <td style="text-align: center">Button 1</td>
-<td style="text-align: center">12</td>
-</tr>
-<tr>
-<td>BT-A</td>
-<td style="text-align: center">A5</td>
-<td style="text-align: center">Button 2</td>
 <td style="text-align: center">6</td>
 </tr>
 <tr>
-<td>FX-L</td>
-<td style="text-align: center">A4</td>
-<td style="text-align: center">Button 3</td>
+<td>BT-A</td>
+<td style="text-align: center">A0</td>
+<td style="text-align: center">Button 2</td>
 <td style="text-align: center">7</td>
 </tr>
 <tr>
-<td>BT-B</td>
-<td style="text-align: center">A3</td>
-<td style="text-align: center">Button 4</td>
+<td>FX-L</td>
+<td style="text-align: center">A1</td>
+<td style="text-align: center">Button 3</td>
 <td style="text-align: center">8</td>
 </tr>
 <tr>
-<td>BT-C</td>
+<td>BT-B</td>
 <td style="text-align: center">A2</td>
-<td style="text-align: center">Button 5</td>
+<td style="text-align: center">Button 4</td>
 <td style="text-align: center">9</td>
 </tr>
 <tr>
-<td>FX-R</td>
-<td style="text-align: center">A1</td>
-<td style="text-align: center">Button 6</td>
+<td>BT-C</td>
+<td style="text-align: center">A3</td>
+<td style="text-align: center">Button 5</td>
 <td style="text-align: center">10</td>
 </tr>
 <tr>
-<td>BT-D</td>
-<td style="text-align: center">A0</td>
-<td style="text-align: center">Button 7</td>
+<td>FX-R</td>
+<td style="text-align: center">A4</td>
+<td style="text-align: center">Button 6</td>
 <td style="text-align: center">11</td>
+</tr>
+<tr>
+<td>BT-D</td>
+<td style="text-align: center">A5</td>
+<td style="text-align: center">Button 7</td>
+<td style="text-align: center">12</td>
 </tr>
 </tbody></table>
 
@@ -235,6 +235,7 @@ Made out of laser cut clear 5mm acrylic. See CAD file.
 <td style="text-align: center">3</td>
 </tr>
 </tbody></table>
+
 
 >**Also you have to connect the encoders to the 5V pin for the 5v input**
 
