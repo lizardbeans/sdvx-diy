@@ -15,9 +15,9 @@ uint8_t buttonCount = 7;
 uint8_t lightMode = 0;
 // 0 = reactive lighting, 1 = HID lighting
 uint8_t buttonPins[] = { 13, 18, 19, 20, 21, 22, 23};
-uint8_t ledPins[] = {12, 11, 10, 9, 8, 7, 6};
+uint8_t ledPins[] = {6,7,8,9,10,11,12};
 /* current pin layout
-    pins 6 to 12 = LED 1 to 7 //{12, 11, 10, 9, 8, 7, 6}
+    pins 6 to 12 = LED 1 to 7 //{6,7,8,9,10,11,12}
     pins 13, A0 to A5 = Button input 1 to 7
    
     pins 5 = system pin
