@@ -2,12 +2,12 @@
  
  
 <div style='float: center'>
-  <img style='width: 200px' src='http://sdvx-diy.pancakeapps.com/pics/pic021.png'></img>
+  <img style='width: 200px' src='http://consandstuff.github.io/rhythmcons/sound-voltex/sdvx-normal/pics/pic021.png'></img>
 </div>
 
 <hr>
 
-Check http://sdvx-diy.pancakeapps.com for full instructions.
+Check [consandstuff.github.io/sound-voltex](http://consandstuff.github.io/rhythmcons/sound-voltex/sdvx-normal/) for full instructions.
 
 CODE INSTRUCTIONS:
 
@@ -44,7 +44,7 @@ For the Leonardo CODE you'll need only Arduino IDE. Set the Arduino for a Leonar
 ## Part List / Hardware
 
 Things used to make this controller.
-You can find links here: http://sdvx-diy.pancakeapps.com
+You can find links here: http://consandstuff.github.io/rhythmcons/sound-voltex/sdvx-normal/
 
 * Teensy 3.2 PCB
 * 2 Chinese Rotary encoders (600ppr)
