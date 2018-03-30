@@ -43,25 +43,9 @@ For the Leonardo CODE you'll need only Arduino IDE. Set the Arduino for a Leonar
 
 ## Part List / Hardware
 
-Things used to make this controller.
+Check out the parts used on my website
 You can find links here: http://consandstuff.github.io/rhythmcons/sound-voltex/sdvx-normal/
 
-* Teensy 3.2 PCB
-* 2 Chinese Rotary encoders (600ppr)
-* 4 60x60 SANWA buttons (white)
-* 2 50x25 SANWA buttons (blue)
-* 1 30x30 SANWA buton (blue)
-* 2 Aluminum knobs 30x25mm
-* 7 Microswitch (included with the buttons)
-* 36 Crimp connectors
-* 9 molex 2.54 4 pin wires with male and female connectors
-* 5 molex 2.54 6 pin wires.
-* 1 perfboard (60x40mm)
-* 6 M3 bolts (for the encoders)
-* 20 M5 bolts for the body
-* 4 M6 bolts for the main plate
-* 4 magnetic locks
-* 1 super glue
 
 Skills needed:
 * Wood cutting
